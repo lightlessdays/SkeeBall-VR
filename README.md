@@ -9,7 +9,7 @@ In my childhood, I used to watch a science fiction sitcom called "Futurama", whe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6eRqMiAxQ0?si=lsBVqHfeB6ahKFEn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # ✨ Demos
-![image](demo.gif)
+<center>![image](demo.gif)</center>
 
 # 🪪 License
 
