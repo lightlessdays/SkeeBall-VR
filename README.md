@@ -3,4 +3,4 @@
 <img src="skeeball_banner.png" width=100%>
 
 # ✨ Demos
-![image](https://github.com/lightlessdays/Skeeball-VR/assets/97734029/e8a8a227-7243-415f-ab81-3829720ca4d9)
+![image](demo.gif)
