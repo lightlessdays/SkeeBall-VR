@@ -2,6 +2,8 @@
 
 <img src="skeeball_banner.png" width=100%>
 
+Skee-Ball is an arcade game and one of the first redemption games. It is played by rolling a ball up an inclined lane and over a "ball-hop" hump that jumps the ball into bullseye rings.
+
 ## 🤔 Why Virtual Skeeball?
 
 In my childhood, I used to watch a science fiction sitcom called "Futurama", where we had a game called "Virtual Skeeball" and "Virtual Virtual Skeeball" and we will be implementing both of them now.
